@@ -19,8 +19,10 @@ Education
 
 
 **`2020 - current:`** PhD Student, Technische Universität Dresden (DAAD Scholarship)
-
-    Supervisor: Prof. Dr. Moritz Schulz
+                    
+                    Dissertation: Keeping it Simple: A Philosophical Essay on Simplified Reasoning
+                    
+                    Supervisor: Prof. Dr. Moritz Schulz
 
 **`2015-2019:`** M. Phil. in Philosophy (Laureate), Universidad del Valle (Cali, Colombia)
 
