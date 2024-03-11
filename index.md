@@ -1,91 +1,114 @@
 ---
 layout: cv
-title: Sebastián Sánchez-Martínez's CV
+title: Sebastián Sánchez Martínez
+colorlinks: true
 ---
-# Sebastián Sánchez-Martínez
-Philosophy Graduate student at TU Dresden
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+-------------------     ----------------------------
+Zellescher Weg 17                  e: [sesanchezma@pm.me](mailito:sesanchezma@pm.me)
+01069 Dresden                       w: [sesanchezma.com](http://www.sesanchezma.com)
+R A434                         t: `+49 (0) 152 593 81649`
+-------------------     ----------------------------
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Education
+---------
 
 
+**`2020 - current:`** PhD Student, Technische Universität Dresden (DAAD Scholarship)
 
-## Awards
+                    Research Project: Reasoning, Simplified
 
-`2012`
-President, *Royal Society*, London, UK
+                    Supervisor: Prof. Dr. Moritz Schulz
 
-Associate, *French Academy of Science*, Paris, France
+**`2015-2019:`** M. Phil. in Philosophy (Laureate), Universidad del Valle (Cali, Colombia)
+
+                   Dissertation: Wilfrid Sellars' Naturalism with a Normative Turn
+
+                   Supervisors: Mauricio Zuluaga & Jorge Ornelas
+
+**`2007-2014:`** BA in Philosophy (Special Mention), Universidad de Antioquia (Medellín, Colombia)
+
+                   Dissertation:  The Problem of Singular Terms in Robert Brandom
+
+Research
+--------
+
+**Areas of Specialization:** Epistemology, Philosophy of Language
+
+**Areas of Competence:** Philosophy of Mind, Philosophy of Science, American Neopragmatism.
+
+Academic Visits
+--------------
+
+**`2016 (Ago-Nov):`**        Instituto de Investigaciones Filosóficas, UNAM (Mexico City)
+**`2010 July -2011 June:`**   Universidad Nacional de Colombia (Bogotá, Colombia)
+
+Publications
+------------
+
+**Book Chapter:** "El problema de los términos singulares en Robert Brandom". En: Olga Gómez Gutiérrez y Jairo Isaac Racines (comps.) *En los límites de la ciencia y la filosofía: debates actuales*. Editorial Universidad del Valle.
+
+**Book reviews**
+
+**`2017:`** [Review of](https://revistas.unal.edu.co/index.php/idval/article/view/68477) James O'Shea (Ed.) *Wilfrid Sellars and His Legacy* (Oxford University Press, 2016), *Ideas y Valores *Vol. 66, Núm 165 (December 2017).
+
+**Translation into Spanish**
+
+**`2020:`** [Translation of](10.25100/pfilosofica.v0i50.8848) Brandom, Robert. Holismo e idealismo en la Fenomenología de Hegel. *Praxis Filosófic*a*, 50, 287–324.
 
 
+Talks
+--------------
+"A Consequentialist Model of Simplified Reasoning" Workshop in Theoretical Philosophy, TU Dresden, 01 February 2024.
 
-## Publications
+"Expresivismo sobre la credibilidad". (Online) Hybrid Workshop *Lenguaje, Acción y Expresividad*, Universidad de los Andes, Bogotá, 12 December 2023.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+"Rational Simplified Reasoning in Beliefs". SOPhiA Young Analytic Philosophy Conference, Salzburg, 09 September 2023.
 
-### Journals
+"Higher-Order Doubts in Simplified Reasoning". Workshop in Theoretical Philosophy, TU Dresden, 07 July 2023.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+"Making Sense of Representativeness". EpiJust2023, LMU München, 01 April 2023.
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+"Simplified (Epistemically) Rational Reasoning". Workshop in Theoretical Philosophy, TU Dresden, 19 January 2023.
 
 
-## Occupation
+Honors & Awards
+---------------
 
-`1600`
-__Royal Mint__, London
+**`2020:`**              DAAD Scholarship
 
-- Warden
-- Minted coins
+**`2019:`**              Laureate Mention for Research Project, Universidad del Valle
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+**`2014:`**              Monography Special Mention, Universidad de Antioquia
 
+
+Outreach & Public Philosophy
+----------------------------
+
+**`2019:`** Markus Gabriel and New Realism (As part of the *Gimnasio de filosofía popular *\[Popular Philosophy Gym\] initiative in the town-theatre *SALAEstrecha* in Pereira, Colombia); July 16
+
+**`2019:`** Nick Bostrom and the Simulation Argument (As part of the *Gimnasio de filosofía popular *\[Popular Philosophy Gym\] initiative in the town-theatre *SALAEstrecha* in Pereira, Colombia); July 2
+
+**`2019:`** Jean Baudrillard and *Simulacra* (As part of the *Gimnasio de filosofía popular *\[Popular Philosophy Gym\] initiative in the town-theatre *SALAEstrecha* in Pereira, Colombia); June 18
+
+**`2019:`** Suicide: Mass Media & Prevention in Youngsters. Conference to English Elementary & High School Pre-Service Teachers as part of a public suicide prevention initiative led by Universidad Tecnológica de Pereira.
+
+Academic References
+-------------------
+
+Prof. Moritz Schulz, Technische Universität Dresden
+
+**`e: moritz.schulz@tu-dresden.de`**
+
+Prof. Dr. Mauricio Zuluaga, Universidad del Valle, Cali, Colombia
+
+**`e: mzuluagac@yahoo.de`**
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2024 -->
 
 
