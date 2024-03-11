@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: Sebastián Sánchez Martínez
+title: Sebastián Sánchez Martínez CV
 colorlinks: true
 ---
 
+<div id="webaddress">
+<a href="sesanchezma@pm.me">sesanchezma@pm.me</a>
+| <a href="http://www.sesanchezma.com">web</a>
+</div>
 
--------------------     ----------------------------
-Zellescher Weg 17                  e: [sesanchezma@pm.me](mailito:sesanchezma@pm.me)
-01069 Dresden                       w: [sesanchezma.com](http://www.sesanchezma.com)
-R A434                         t: `+49 (0) 152 593 81649`
--------------------     ----------------------------
+Zellescher Weg 17      
+R A434
+
 
 
 Education
@@ -18,9 +20,7 @@ Education
 
 **`2020 - current:`** PhD Student, Technische Universität Dresden (DAAD Scholarship)
 
-                    Research Project: Reasoning, Simplified
-
-                    Supervisor: Prof. Dr. Moritz Schulz
+    Supervisor: Prof. Dr. Moritz Schulz
 
 **`2015-2019:`** M. Phil. in Philosophy (Laureate), Universidad del Valle (Cali, Colombia)
 
@@ -110,5 +110,3 @@ Prof. Dr. Mauricio Zuluaga, Universidad del Valle, Cali, Colombia
 <!-- ### Footer
 
 Last updated: March 2024 -->
-
-
