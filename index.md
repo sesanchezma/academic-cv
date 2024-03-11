@@ -49,7 +49,7 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 ## Publications
 
-**`2020`** [Translation into Spanish of](10.25100/pfilosofica.v0i50.8848) Brandom, Robert. Holismo e idealismo en la Fenomenología de Hegel. *Praxis Filosófica*, 50, 287–324.
+**`2020`** [Translation into Spanish of](https://doi.org/10.25100/pfilosofica.v0i50.8848) Brandom, Robert. Holismo e idealismo en la Fenomenología de Hegel. *Praxis Filosófica*, 50, 287–324.
 
 **`2017`** [Review of](https://revistas.unal.edu.co/index.php/idval/article/view/68477) James O'Shea (Ed.) *Wilfrid Sellars and His Legacy* (Oxford University Press, 2016), *Ideas y Valores* Vol. 66, Núm 165 (December 2017).
 
