@@ -8,7 +8,7 @@ colorlinks: true
 # Academic CV
 
 <div id="webaddress">
-<a href="sesanchezma@pm.me">sesanchezma@pm.me</a>
+<a href="mailito:sesanchezma@pm.me">sesanchezma@pm.me</a>
 | <a href="http://www.sesanchezma.com">www.sesanchezma.com</a>
 </div>
 
