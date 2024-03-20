@@ -84,6 +84,16 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`2019-2020`** Logico-mathematical Reasoning
 
+## Service
+
+**`2009`** Organizer of international student event _I Foro Latinoamericano de Estudiantes de Filosofía_.
+
+**`2009-2012`** Editor of student publication _Versiones_ (Universidad de Antioquia).
+
+**`2009`** Organizer of student event _XXII Foro de estudiantes de filosofía de Versiones_ (Universidad de Antioquia).
+
+**`2008-2009`** Referee of student publication _Versiones_ (Universidad de Antioquia).
+
 
 ## Honors & Awards
 
@@ -95,6 +105,8 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 
 ## Outreach & Public Philosophy
+
+**`2020-`** [Blog (in Spanish) at Ghost](http://sesanchezma.ghost.io).
 
 **`2019`** Markus Gabriel and New Realism (As part of the *Gimnasio de filosofía popular* \[Popular Philosophy Gym\] initiative in the town-theatre *SALAEstrecha* in Pereira, Colombia); July 16
 
