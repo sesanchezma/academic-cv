@@ -11,7 +11,10 @@ colorlinks: true
 | <a href="http://www.sesanchezma.com">www.sesanchezma.com</a>
 </div>
 
-Philosophy researcher based at TU Dresden with an interdisciplinary spirit and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
+
+## Bio
+
+A Colombian philosophy researcher currently based at TU Dresden with an international background, an interdisciplinary spirit and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
 
 
 ## Education
