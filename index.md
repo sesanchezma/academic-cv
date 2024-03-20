@@ -5,13 +5,14 @@ colorlinks: true
 ---
 
 # Sebastián Sánchez-Martínez - CV
-Philosophy researcher based at TU Dresden with an interdisciplinary spirit and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
+
 
 <div id="webaddress">
 <a href="sesanchezma@pm.me">sesanchezma@pm.me</a>
 | <a href="http://www.sesanchezma.com">www.sesanchezma.com</a>
 </div>
 
+Philosophy researcher based at TU Dresden with an interdisciplinary spirit and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
 
 
 ## Education
