@@ -4,14 +4,14 @@ title: Sebastián Sánchez Martínez CV
 colorlinks: true
 ---
 
-# Sebastián Sánchez-Martínez
-# Academic CV
+# Sebastián Sánchez-Martínez - CV
 
 <div id="webaddress">
 <a href="mailito:sesanchezma@pm.me">sesanchezma@pm.me</a>
 | <a href="http://www.sesanchezma.com">www.sesanchezma.com</a>
 </div>
 
+Philosophy researcher based at TU Dresden with an interdisciplinary spirit and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
 
 
 ## Education
