@@ -14,7 +14,7 @@ colorlinks: true
 
 ## Bio
 
-A Colombian philosophy researcher currently based at TU Dresden with an international background, an interdisciplinary spirit and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
+A Colombian philosophy researcher currently based at TU Dresden with an international background, an interdisciplinary spirit, and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
 
 
 ## Education
