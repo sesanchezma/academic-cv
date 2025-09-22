@@ -15,14 +15,14 @@ colorlinks: true
 
 ## Bio
 
-A Colombian philosophy researcher currently based at TU Dresden with an international background, an interdisciplinary spirit, and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
+A philosophy researcher currently based at TU Dresden with an international background, an interdisciplinary spirit, and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
 
 ## Education
 
 
 **`2020 - `** **PhD Candidate**, Technische Universität Dresden (DAAD Scholarship)
 
-Dissertation: Keeping it Simple: A Philosophical Essay on Simplified Reasoning
+Dissertation: Reasoning, Simplified. A Philosophical Account
           
 Supervisor: Prof. Dr. Moritz Schulz
 
