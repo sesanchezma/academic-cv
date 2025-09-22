@@ -22,7 +22,7 @@ A philosophy researcher currently based at TU Dresden with international experie
 
 **`2020 - `** **PhD Candidate**, Technische Universität Dresden (DAAD Scholarship)
 
-Dissertation: Keeping it Simple: A Philosophical Essay on Simplified Reasoning
+Dissertation: Reasoning, Simplified. A Philosophical Theory.
           
 Supervisor: Prof. Dr. Moritz Schulz
 
