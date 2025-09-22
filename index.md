@@ -14,7 +14,7 @@ colorlinks: true
 
 ## Bio
 
-A Colombian philosophy researcher currently based at TU Dresden with an international background, an interdisciplinary spirit, and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
+A philosophy researcher currently based at TU Dresden with international experience, an interdisciplinary spirit, and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
 
 
 ## Education
@@ -39,9 +39,9 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 ### Research
 
 
-**Areas of Specialization:** Epistemology, Philosophy of Language
+**Areas of Specialization:** Epistemology, Decision Theory, Mind, Language.
 
-**Areas of Competence:** Philosophy of Mind, Philosophy of Science, American Neopragmatism.
+**Areas of Competence:** Philosophy of Mind, Philosophy of Science, American Neopragmatism, History of Modern Philosophy, History of Analytic Philosophy.
 
 ## Academic Visits
 
@@ -106,7 +106,7 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 ## Outreach & Public Philosophy
 
-**`2020-`** [Blog (in Spanish) at Ghost](http://sesanchezma.ghost.io).
+**`2025-`** [Space (in Spanish) at Barequeo](barequeo.com/autor/sebastian-sanchez/).
 
 **`2019`** Markus Gabriel and New Realism (As part of the *Gimnasio de filosofía popular* \[Popular Philosophy Gym\] initiative in the town-theatre *SALAEstrecha* in Pereira, Colombia); July 16
 
