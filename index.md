@@ -61,7 +61,8 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 ## Talks
 
 **`2025.09.11`** "Reasoning at Play, Simplify Anyway". SOPhiA Young Analytic Philosophy Conference, Salzburg.
-                    Gap 12
+                    
+                    Gap 12, Düsseldorf.
 
 **`2025.05.22`** *Simplified Reasoning as Boundedly Rational*. Workshop in Theoretical Philosophy, Graz.
 
@@ -73,7 +74,7 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`2023.06.07`** *Higher-Order Doubts in Simplified Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
 
-**`2023.04.01`** +Making Sense of Representativeness.+ EpiJust2023, LMU München.
+**`2023.04.01`** *Making Sense of Representativeness.* EpiJust2023, LMU München.
 
 **`2023.01.19`**  *Simplified (Epistemically) Rational Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
 
