@@ -72,10 +72,7 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`2023.04.01`** "Making Sense of Representativeness". EpiJust2023, LMU München, 01 April 2023.
 
-**`Simplified (Epistemically) Rational Reasoning`**
-
-
-          2023.01.19 | Workshop in Theoretical Philosophy, TU Dresden, 19 January 2023.
+**`Simplified (Epistemically) Rational Reasoning`** 2023.01.19 | Workshop in Theoretical Philosophy, TU Dresden, 19 January 2023.
 
 ## Teaching
 
