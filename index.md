@@ -62,23 +62,27 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`-`** *Reasoning at Play, Simplify Anyway*. 
 
-**`2025.09.11`** Gap 12, Düsseldorf.
+**`2025-09-11`** Gap 12, Düsseldorf.
+
+**`2024-09-25`** XXVI. Deutscher Kongress für Philosophie, Münster.
                     
-**`2024.09.12`** SOPhiA Young Analytic Philosophy Conference, Salzburg.
+**`2024-09-12`** SOPhiA Young Analytic Philosophy Conference, Salzburg.
 
-**`2025.05.22`** *Simplified Reasoning as Boundedly Rational*. Workshop in Theoretical Philosophy, Graz.
+**`2024-12-09`** *Simplificación y control doxástico*. (Online) Hybrid Workshop Lenguaje, Acción y Expresividad, Universidad de los Andes, Bogotá.
 
-**`2024.02.02`** *A Consequentialist Model of Simplified Reasoning* Workshop in Theoretical Philosophy, TU Dresden.
+**`2025-05-22`** *Simplified Reasoning as Boundedly Rational*. Workshop in Theoretical Philosophy, Graz.
 
-**`2023.12.12`** *Expresivismo sobre la credibilidad*. (Online) Hybrid Workshop *Lenguaje, Acción y Expresividad*, Universidad de los Andes, Bogotá.
+**`2024-02-02`** *A Consequentialist Model of Simplified Reasoning* Workshop in Theoretical Philosophy, TU Dresden.
 
-**`2023.09.09`** *Rational Simplified Reasoning in Beliefs*. SOPhiA Young Analytic Philosophy Conference, Salzburg..
+**`2023-12-12`** *Expresivismo sobre la credibilidad*. (Online) Hybrid Workshop Lenguaje, Acción y Expresividad, Universidad de los Andes, Bogotá.
 
-**`2023.06.07`** *Higher-Order Doubts in Simplified Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
+**`2023-09-09`** *Rational Simplified Reasoning in Beliefs*. SOPhiA Young Analytic Philosophy Conference, Salzburg..
 
-**`2023.04.01`** *Making Sense of Representativeness.* EpiJust2023, LMU München.
+**`2023-06-07`** *Higher-Order Doubts in Simplified Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
 
-**`2023.01.19`**  *Simplified (Epistemically) Rational Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
+**`2023-04-01`** *Making Sense of Representativeness.* EpiJust2023, LMU München.
+
+**`2023-01-19`**  *Simplified (Epistemically) Rational Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
 
 ## Teaching
 
