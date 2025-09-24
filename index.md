@@ -61,6 +61,8 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 ## Talks
 
+**`2025.09.11`** "Reasoning at Play, Simplify Anyway". SOPhiA Young Analytic Philosophy Conference, Salzburg, 12 September 2024.
+
 **`2024.02.02`** "A Consequentialist Model of Simplified Reasoning" Workshop in Theoretical Philosophy, TU Dresden.
 
 **`2023.12.12`** "Expresivismo sobre la credibilidad". (Online) Hybrid Workshop *Lenguaje, Acción y Expresividad*, Universidad de los Andes, Bogotá, 12 December 2023.
@@ -71,7 +73,8 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`2023.04.01`** "Making Sense of Representativeness". EpiJust2023, LMU München, 01 April 2023.
 
-**`2023.01.19`** "Simplified (Epistemically) Rational Reasoning". Workshop in Theoretical Philosophy, TU Dresden, 19 January 2023.
+*`Simplified (Epistemically) Rational Reasoning`*
+          2023.01.19 | Workshop in Theoretical Philosophy, TU Dresden, 19 January 2023.
 
 ## Teaching
 
@@ -84,7 +87,7 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`2019-2020`** Logico-mathematical Reasoning
 
-## Service
+## Organization
 
 **`2009`** Organizer of international student event _I Foro Latinoamericano de Estudiantes de Filosofía_.
 
@@ -93,6 +96,10 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 **`2009`** Organizer of student event _XXII Foro de estudiantes de filosofía de Versiones_ (Universidad de Antioquia).
 
 **`2008-2009`** Referee of student publication _Versiones_ (Universidad de Antioquia).
+
+## Referee Work
+
+GAP Epistemology Section; Filozofia Nauki; Versiones.
 
 
 ## Honors & Awards
