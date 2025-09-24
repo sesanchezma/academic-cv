@@ -60,9 +60,9 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 ## Talks
 
-**`2025.09.11`** *Reasoning at Play, Simplify Anyway*. | Gap 12, Düsseldorf.
+**`2025.09.11`** *Reasoning at Play, Simplify Anyway*. Gap 12, Düsseldorf.
                     
-**`2024.09.12`**                                       | SOPhiA Young Analytic Philosophy Conference, Salzburg.
+**`2024.09.12`**                                       SOPhiA Young Analytic Philosophy Conference, Salzburg.
 
 **`2025.05.22`** *Simplified Reasoning as Boundedly Rational*. Workshop in Theoretical Philosophy, Graz.
 
