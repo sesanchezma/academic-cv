@@ -12,11 +12,6 @@ colorlinks: true
 </div>
 
 
-## Bio
-
-A philosophy researcher currently based at TU Dresden with international experience, an interdisciplinary spirit, and a focus on reasoning, the rationality of beliefs, and applications to individual improvements in reasoning and decision making.
-
-
 ## Education
 
 
