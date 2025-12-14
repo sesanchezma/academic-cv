@@ -22,7 +22,7 @@ A philosophy researcher currently based at TU Dresden with international experie
 
 **`2020 - 2025 `** **PhD Candidate**, Technische Universität Dresden (DAAD Scholarship)
 
-Dissertation: Reasoning, Simplified. A Philosophical Theory.
+Dissertation: Reasoning, Simplified. A Philosophical Account.
           
 Supervisor: Prof. Dr. Moritz Schulz
 
@@ -76,7 +76,7 @@ Dissertation:  The Problem of Singular Terms in Robert Brandom
 
 **`2023-12-12`** *Expresivismo sobre la credibilidad*. (Online) Hybrid Workshop Lenguaje, Acción y Expresividad, Universidad de los Andes, Bogotá.
 
-**`2023-09-09`** *Rational Simplified Reasoning in Beliefs*. SOPhiA Young Analytic Philosophy Conference, Salzburg..
+**`2023-09-09`** *Rational Simplified Reasoning in Beliefs*. SOPhiA Young Analytic Philosophy Conference, Salzburg.
 
 **`2023-06-07`** *Higher-Order Doubts in Simplified Reasoning*. Workshop in Theoretical Philosophy, TU Dresden.
 
